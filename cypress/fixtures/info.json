@@ -1,0 +1,17 @@
+{
+    "pooja" : {
+      "firstName": "Pooja",
+      "lastName": "Fulzele",
+      "password": "@Minskole12",
+      "month": 8,
+      "date": 9,
+      "birthYear": "1998",
+      "company": "Ritz",
+      "address": "Ramtek",
+      "city": "Pune",
+      "country": "India",
+      "state": "Maharashtra",
+      "pincode": 441106,
+      "phoneNumber": 9322423454
+    }
+}
